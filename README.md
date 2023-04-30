@@ -1,6 +1,6 @@
 # Sqlalchemy-challenge
 homework for DataViz bootcamp
-*NOTE: https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html this link was used to figure out the describe function and https://stackoverflow.com/questions/10998621/rotate-axis-text-in-matplotlib this link was used on how to rotate the text on the x- axis both of these can be found in climate.ipynb which is found in SurfsUp notebook*
+*NOTE: https://pandas.pydata.org/docs/getting_started/intro_tutorials/06_calculate_statistics.html this link was used to figure out the describe function and https://stackoverflow.com/questions/10998621/rotate-axis-text-in-matplotlib this link was used on how to rotate the text on the x- axis both of these can be found in climate.ipynb which is found in SurfsUp folder*
 
 # Instructions
 
